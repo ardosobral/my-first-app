@@ -1,4 +1,4 @@
-const API_URL = "https://dattebayo-api.onrender.com/characters";
+const API_URL = "https://dattebayo-api.onrender.com";
 
 export async function fetchPersonagemById(id: string)
 {
